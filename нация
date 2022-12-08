@@ -17,6 +17,22 @@ http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MOLA TV
 https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846042
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ANIMAL PLANET
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016979
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC 2
+http://tvlive.my.id:25461/mat/mat/71
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NAT GEO WILD
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017477
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NAT GEO WILD
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY CHANNEL
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016978
+
 ########################## NATIONAL 1 ##########################
 
 
