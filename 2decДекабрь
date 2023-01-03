@@ -730,7 +730,7 @@ https://devds.site/api/indihoy/hls.m3u8?ch=bein2
 #EXTINF:-1 group-title=" SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sports", Fight Sports
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title=" SPORTS 1", Fight Sports
 http://210.210.155.37:80/dr9445/h/h05/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -756,26 +756,26 @@ https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-
 #EXTINF:-1 tvg-logo="" group-title=" SPORTS 1",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title="Sports 1", Champions TV 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpLz7bkN/championstv1_hd.png" group-title=" SPORTS 1", Champions TV 1 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title="Sports 1", Champions TV 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYx1T61/championstv2_hd.png" group-title=" SPORTS 1"", Champions TV 2 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports 1", Champions TV 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title=" SPORTS 1", Champions TV 3 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6687.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title="Sports 1", Champions TV 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15XFxDc5/championstv3.png" group-title=" SPORTS 1", Champions TV 3 HD
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Sports 1", Astro Arena HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title=" SPORTS 1", Astro Arena HD
 http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 http://51.79.82.208:16007
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title="Sports 1", Astro Arena HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xnPNKKS/astrorna.png" group-title=" SPORTS 1", Astro Arena HD
 http://50.7.220.74:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports 1", Premiere Sport
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title=" SPORTS 1", Premiere Sport
 http://51.79.82.208:16450
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports 1", Premiere Sport
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title=" SPORTS 1", Premiere Sport
 http://51.79.82.208:16455
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title="Sports 1", Premiere Sport
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmR2zWDF/Premierelogo.png" group-title=" SPORTS 1", Premiere Sport
 http://51.79.82.208:16456
 
 
